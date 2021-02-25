@@ -1,0 +1,17 @@
+const books = (function () {
+  let books = [];
+
+
+     
+  function createBook(name, author, pages, readStatus) {
+      {
+        name,
+        author,
+        pages,
+        readStatus,
+      };
+  };
+
+
+  
+})();
